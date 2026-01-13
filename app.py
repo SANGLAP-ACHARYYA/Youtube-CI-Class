@@ -14,3 +14,5 @@ power_5 = num ** 5
 st.write(f"Square of {num} = {square}")
 st.write(f"Cube of {num} = {cube}")
 st.write(f"{num} to the power 5 = {power_5}")
+
+
